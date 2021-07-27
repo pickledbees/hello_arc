@@ -16,4 +16,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: Hello, this is Application V4
+      value: Hello, this is Application V5
