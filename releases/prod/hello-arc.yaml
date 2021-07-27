@@ -16,4 +16,4 @@ spec:
     replicaCount: 1
     env:
       name: MESSAGE
-      value: Hello, Azure Arc enabled K8s GitOps Demo 2
+      value: Hello, this is Application V1
